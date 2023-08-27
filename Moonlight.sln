@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{966CCE27-9121-41AE-8F3D-AB340480F251}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Moonlight", "Moonlight\Moonlight.vcxproj", "{6AD186B1-9B79-4E2F-BBEE-01E6AD5F2A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD186B1-9B79-4E2F-BBEE-01E6AD5F2A72}.Debug|x64.ActiveCfg = Debug|x64
+		{6AD186B1-9B79-4E2F-BBEE-01E6AD5F2A72}.Debug|x64.Build.0 = Debug|x64
+		{6AD186B1-9B79-4E2F-BBEE-01E6AD5F2A72}.Release|x64.ActiveCfg = Release|x64
+		{6AD186B1-9B79-4E2F-BBEE-01E6AD5F2A72}.Release|x64.Build.0 = Release|x64
+		{966CCE27-9121-41AE-8F3D-AB340480F251}.Debug|x64.ActiveCfg = Debug|x64
+		{966CCE27-9121-41AE-8F3D-AB340480F251}.Debug|x64.Build.0 = Debug|x64
+		{966CCE27-9121-41AE-8F3D-AB340480F251}.Release|x64.ActiveCfg = Release|x64
+		{966CCE27-9121-41AE-8F3D-AB340480F251}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB6736B-A8E6-45F2-80BD-420F206D4E0B}
+	EndGlobalSection
+EndGlobal
